@@ -1,12 +1,11 @@
 # 👋 Hi there! I'm Harshal!
-
-Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and lifelong learner dedicated to building impactful software and exploring new technologies.
+Welcome to my GitHub profile! 
 
 ## 🚀 About Me
 
+- ✨ First Year Engineering Student !
 - 🌱 Learning: **Java | Data Structures & Algorithms | Web Development**
 - 🎯 Goals: **Become a skilled software engineer | Contribute to open source**
-- 💬 Ask me about: **Web Development, Java, DSA**
 - 📫 How to reach me: [jharshal605@gmail.com](mailto:your.email@example.com)
 
 ## 🛠️ Technologies & Tools
