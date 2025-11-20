@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- ✨ First Year Engineering Student !
+- ✨ Second Year Engineering Student !
 - 🌱 Learning: **Java | Data Structures & Algorithms | Web Development**
 - 🎯 Goals: **Become a skilled software engineer | Contribute to open source**
 - 📫 How to reach me: [jharshal605@gmail.com](mailto:your.email@example.com)
